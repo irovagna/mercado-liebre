@@ -1,0 +1,11 @@
+
+main form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+main form p{
+    font-size: 20px;
+    font-weight: bold;
+}
